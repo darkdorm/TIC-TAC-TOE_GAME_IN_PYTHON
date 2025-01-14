@@ -1,2 +1,13 @@
-# TIC-TAC-TOE_GAME_IN_PYTHON
-This repository features a Tic-Tac-Toe game implemented in Python. The game provides an interactive and fun way to play the classic two-player strategy game directly in the terminal or console.
+# TicTacToeGUI
+# How To install and use in linux
+
+type in terminal :
+
+> dpkg -i python3-tictactoe_2.0.deb
+
+and then, type in terminal:
+
+> tictactoe
+# How To use in Windows
+first you need to install python 3 and then run the program on cmd with command:
+> <i>py TicTacToe.py</i>
